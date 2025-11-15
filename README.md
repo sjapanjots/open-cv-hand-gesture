@@ -1,4 +1,4 @@
-# Virtual Mouse Using Hand Gesture Recognition: The AI Mouse! 🐭✨
+# Virtual Mouse Using Hand Gesture Recognition: The AI Mouse! ✨
 
 Welcome to the repository for a super fun and practical project that brings your hand gestures to life on your computer screen! This Virtual Mouse project allows you to control your cursor and execute standard mouse functions (and even take screenshots!) using only your hand, powered by the magic of computer vision.
 
