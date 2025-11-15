@@ -6,6 +6,7 @@ Say goodbye to wrist strain and hello to hands-free control! 👋
 
 ---
 
+
 ## 🌟 Features
 
 This project utilizes advanced computer vision techniques to enable full mouse functionality via simple hand gestures:
