@@ -4,7 +4,6 @@ Welcome to the repository for a super fun and practical project that brings your
 
 Say goodbye to wrist strain and hello to hands-free control! 👋
 
----
 
 
 ## 🌟 Features
